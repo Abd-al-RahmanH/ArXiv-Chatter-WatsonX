@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+PyPDF2
+arxiv 
+langchain 
+htmlTemplate 
+ibm_watson_machine_learning 
+requests 
+pandas
+tensorflow-hub
+tensorflow_text
